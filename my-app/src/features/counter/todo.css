@@ -1,0 +1,69 @@
+.main{
+    background-image: url("./ground.jpg");
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 1000px;
+    margin-left: 35%;
+}
+
+
+.list{
+    color: rgb(214, 172, 116);
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 12%;
+    padding-left: 17%;
+}
+
+.list-input{
+    width: 300px;
+    height: 25px;
+    margin-left: 12%;
+    border: 2% solid sandybrown;
+    border-radius: 15px;
+}
+
+.button-add{
+    color: rgb(104, 82, 53);
+    width: 30px;
+    height: 30px;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.todo{
+    display: flex;
+    margin-left: 20%;
+    font-size: 25px;
+}
+
+.item{
+    width: 20px;
+}
+
+.button-delete{
+    margin-left: 19%;
+    color:  rgb(104, 82, 53);
+}
+
+.button-edit{
+    color:  rgb(104, 82, 53);
+}
+
+.edit{
+    font-size: 20px;
+    width: 170px;
+    margin-left: 20%;
+}
+
+.button-save{
+    color:  rgb(104, 82, 53);
+    width: 25px;
+    height: 25px;
+}
+
+.button-cancel{
+    color:  rgb(104, 82, 53);
+    width: 25px;
+    height: 25px;
+}
